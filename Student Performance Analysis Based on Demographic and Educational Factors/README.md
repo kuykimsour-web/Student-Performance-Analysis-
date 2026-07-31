@@ -59,7 +59,7 @@ The dataset contains **1,000 student records** and **8 variables**.
 ## 📈 Project Workflow
 
 1. Project Planning
-2. API Research & Comparison
+2. Import Libraries
 3. Dataset Selection
 4. Data Loading
 5. Data Exploration
